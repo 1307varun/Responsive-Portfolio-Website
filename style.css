@@ -464,7 +464,8 @@ margin: 2rem 0 3rem;
 }
 @media(max-width:365px)
 {
-    .home-img image-rendering: {
+    .home-img img 
+     {
         width: 90vw;
     }
     .about-img img 
